@@ -1,0 +1,10 @@
+EntityList=0x1d87e88
+LocalPlayer=0x02139480 + 0x8
+LevelName=0x165bd30
+m_highlightEnable=0x3C8
+m_highlightOcclusion=0x3D0
+m_highlightColor=0x1D0
+m_iSignifierName=0x0580
+m_iTeamNum=0x044c
+m_iHealth=0x043c
+m_shieldHealth=0x0170
